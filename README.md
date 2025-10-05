@@ -15,7 +15,7 @@ This project is designed as a standard benchmark for evaluating the performance,
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-url>
+    git clone cifar-benchmark
     cd cifar-benchmark
     ```
 
